@@ -1,0 +1,6 @@
+{
+	"ip":"mgcraftmc.aternos.me",
+	"port": "25565",
+	"name": "MgCraft",
+	"auto-night-skip":"true"
+}
